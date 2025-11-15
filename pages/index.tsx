@@ -1,4 +1,4 @@
-import { PROPERTYLISTINGSAMPLE } from "@/components/constants";
+import { PROPERTYLISTINGSAMPLE } from "@/constants";
 import Pill from "@/components/common/Pill";
 import PropertyCard from "@/components/property/PropertyCard";
 
